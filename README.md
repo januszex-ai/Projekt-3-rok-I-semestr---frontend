@@ -39,5 +39,5 @@ Aplikacja webowa umożliwiająca mieszkańcom zgłaszanie problemów z infrastru
 
 Stack Technologiczny:
 
-Link do Figma:
+Figma: [LINK](https://www.figma.com/design/H7Ct2LOpkkzyVVHbZGB8GV/januszex-ai?node-id=0-1&t=859py2VBDMXvy4Ds-1)
 
